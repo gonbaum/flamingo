@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "SofiaSans-Black";
+    src: url("SofiaSans-Black.otf");
+  }
+
+  @font-face {
+    font-family: "SofiaSans-Heavy";
+    src: url("SofiaSans-Heavy.otf");
+  }
+
+  @font-face {
+    font-family: "SofiaSansCond-Medium";
+    src: url("SofiaSans-Heavy.otf");
+  }
+
+  @font-face {
+    font-family: "SofiaSansCond-Regular";
+    src: url("SofiaSans-Heavy.otf");
+  }
+
+  @font-face {
+    font-family: "SofiaSansCond-Light";
+    src: url("SofiaSans-Heavy.otf");
+  }
