@@ -1,9 +1,11 @@
 @font-face {
     font-family: "SofiaSans-Black";
     src: url("SofiaSans-Black.otf");
+    font-display: swap;
   }
 
   @font-face {
     font-family: "SofiaSans-Heavy";
     src: url("SofiaSans-Heavy.otf");
+    font-display: swap;
   }
